@@ -2,7 +2,6 @@
 
 A simple notes app built with React and Material-UI.
 
-![Notes App Screenshot](./screenshot.png)
 
 ## Features
 
